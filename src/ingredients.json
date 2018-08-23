@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "a platter",
+      "image": "https://images.crateandbarrel.com/is/image/Crate/EssentialPlatterSHS17"
+    },
+    {
+      "id": 2,
+      "name": "tortilla chips",
+      "image": "http://scibosnian.com/wp-content/uploads/2017/07/Tortilla_Chips.png"
+    },
+    {
+      "id": 3,
+      "name": "cheese",
+      "image": "https://images.eatthismuch.com/site_media/img/501037_hpsillymom_4682b33b-5577-4baa-8d3d-42352d179f68.png"
+    },
+    {
+      "id": 4,
+      "name": "black olives",
+      "image": "https://sc02.alicdn.com/kf/HTB1Rp02KFXXXXXwXFXXq6xXFXXXG/Pitted-Black-Olives.jpg"
+    },
+    {
+      "id": 5,
+      "name": "jalapeños",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Yibwvau1L._SX355_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "onions",
+      "image": "https://www.thoughtco.com/thmb/V38lJJGqAccOAi4lPFwQUH12YiQ=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/full-frame-shot-of-onions-in-market-stall-562386223-59b97e59845b340010f8d76e.jpg"
+    },
+    {
+      "id": 7,
+      "name": "pico de gallo",
+      "image": "https://insearchofyummyness.com/wp-content/uploads/2017/08/Pico-de-gallo.jpg"
+    },
+    {
+      "id": 8,
+      "name": "corn",
+      "image": "https://www.simplyrecipes.com/wp-content/uploads/2015/08/corn-salsa-horiz-a-800.jpg"
+    },
+    {
+      "id": 9,
+      "name": "refried beans",
+      "image": "https://www.simplyrecipes.com/wp-content/uploads/2005/12/refried-beans-horiz-a-1600.jpg"
+    },
+    {
+      "id": 10,
+      "name": "ground beef",
+      "image": "https://foodal.com/wp-content/uploads/2017/04/The-Best-Ground-Beef-Lettuce-Wraps.jpg"
+    },
+    {
+      "id": 11,
+      "name": "carnitas",
+      "image": "https://www.recipetineats.com/wp-content/uploads/2016/08/Pork-Carnitas_2-680x486.jpg"
+    },
+    {
+      "id": 12,
+      "name": "guacamole",
+      "image": "https://www.simplyrecipes.com/wp-content/uploads/2014/05/guacamole-horiz-a-1600.jpg"
+    },
+    {
+      "id": 13,
+      "name": "sour cream",
+      "image": "https://images.eatthismuch.com/site_media/img/54_erin_m_044fe97f-90c7-4dfb-aaf0-0692a73e6292.png"
+    },
+    {
+      "id": 14,
+      "name": "black beans",
+      "image": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/garlicky-black-beans-cl.jpg?itok=yIHUqLgf"
+    }
+  ]
+  
