@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import Navbar from './components/Navbar';
 import Instructions from './components/Instructions';
-import {Main, IngredientCard} from './components/Game/';
-import ingredients from './ingredients.json';
+import {Main, IngredientCard} from './components/Game';
+import ingredients from './ingredients.js';
 
 class App extends Component {
 
@@ -30,6 +30,8 @@ class App extends Component {
 
   //Function for when a user clicks an ingredient
   selectIngredient = (id,name) => {
+
+    
   //If the ingredient has already been selected
   if (this.state.selectedIngredients.includes(id)) {
     this.setState({
@@ -43,7 +45,7 @@ class App extends Component {
     this.setState({
       selectedIngredients: [...this.state.selectedIngredients, id],
       score: this.state.score + 1,
-      message: `Added ${name}!`
+      message: `Added ${name}!`      
     })
     //If the current score is the best score, set the top score
     if (this.state.score > this.state.topscore) {
@@ -67,6 +69,7 @@ class App extends Component {
 
     //Shuffle the ingredients prior to displaying them
     const shuffledIngredients = this.shuffleArray(this.state.ingredients);
+    console.log(ingredients);
 
     //Only display 6 ingredients
     const firstSixIngredients = shuffledIngredients.slice(0,6);
